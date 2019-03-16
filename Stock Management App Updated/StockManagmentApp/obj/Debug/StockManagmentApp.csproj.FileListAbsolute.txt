@@ -1,0 +1,110 @@
+F:\Dot Net practice\Stock Managment project\StockManagmentApp\StockManagmentApp\bin\Debug\StockManagmentApp.exe.config
+F:\Dot Net practice\Stock Managment project\StockManagmentApp\StockManagmentApp\bin\Debug\StockManagmentApp.exe
+F:\Dot Net practice\Stock Managment project\StockManagmentApp\StockManagmentApp\bin\Debug\StockManagmentApp.pdb
+F:\Dot Net practice\Stock Managment project\StockManagmentApp\StockManagmentApp\obj\Debug\StockManagmentApp.csprojResolveAssemblyReference.cache
+F:\Dot Net practice\Stock Managment project\StockManagmentApp\StockManagmentApp\obj\Debug\StockManagmentApp.CategorySetupUi.resources
+F:\Dot Net practice\Stock Managment project\StockManagmentApp\StockManagmentApp\obj\Debug\StockManagmentApp.StockManagementAppFrontPage.resources
+F:\Dot Net practice\Stock Managment project\StockManagmentApp\StockManagmentApp\obj\Debug\StockManagmentApp.Properties.Resources.resources
+F:\Dot Net practice\Stock Managment project\StockManagmentApp\StockManagmentApp\obj\Debug\StockManagmentApp.csproj.GenerateResource.Cache
+F:\Dot Net practice\Stock Managment project\StockManagmentApp\StockManagmentApp\obj\Debug\StockManagmentApp.exe
+F:\Dot Net practice\Stock Managment project\StockManagmentApp\StockManagmentApp\obj\Debug\StockManagmentApp.pdb
+C:\Users\NIZAM UDDIN NIROB\Desktop\StockManagmentApp\StockManagmentApp\bin\Debug\StockManagmentApp.exe.config
+C:\Users\NIZAM UDDIN NIROB\Desktop\StockManagmentApp\StockManagmentApp\obj\Debug\StockManagmentApp.exe
+C:\Users\NIZAM UDDIN NIROB\Desktop\StockManagmentApp\StockManagmentApp\obj\Debug\StockManagmentApp.pdb
+C:\Users\NIZAM UDDIN NIROB\Desktop\StockManagmentApp\StockManagmentApp\bin\Debug\StockManagmentApp.exe
+C:\Users\NIZAM UDDIN NIROB\Desktop\StockManagmentApp\StockManagmentApp\bin\Debug\StockManagmentApp.pdb
+C:\Users\NIZAM UDDIN NIROB\Desktop\StockManagmentApp\StockManagmentApp\obj\Debug\StockManagmentApp.csprojResolveAssemblyReference.cache
+C:\Users\NIZAM UDDIN NIROB\Desktop\StockManagmentApp\StockManagmentApp\obj\Debug\StockManagmentApp.CategorySetupUi.resources
+C:\Users\NIZAM UDDIN NIROB\Desktop\StockManagmentApp\StockManagmentApp\obj\Debug\StockManagmentApp.Properties.Resources.resources
+C:\Users\NIZAM UDDIN NIROB\Desktop\StockManagmentApp\StockManagmentApp\obj\Debug\StockManagmentApp.csproj.GenerateResource.Cache
+C:\Users\NIZAM UDDIN NIROB\Desktop\StockManagmentApp\StockManagmentApp\obj\Debug\StockManagmentApp.CompanySetupUi.resources
+C:\Users\NIZAM UDDIN NIROB\Desktop\StockManagmentApp\StockManagmentApp\obj\Debug\StockManagmentApp.StockManagementAppFrontPageUi.resources
+C:\Users\NIZAM UDDIN NIROB\Desktop\StockManagmentApp\StockManagmentApp\obj\Debug\StockManagmentApp.ItemSetupUi.resources
+C:\Users\NIZAM UDDIN NIROB\Desktop\StockManagmentApp\StockManagmentApp\obj\Debug\StockManagmentApp.StockInUi.resources
+C:\Users\Web App Develop .Net\Desktop\StockManagmentApp\StockManagmentApp\bin\Debug\StockManagmentApp.exe.config
+C:\Users\Web App Develop .Net\Desktop\StockManagmentApp\StockManagmentApp\obj\Debug\StockManagmentApp.exe
+C:\Users\Web App Develop .Net\Desktop\StockManagmentApp\StockManagmentApp\obj\Debug\StockManagmentApp.pdb
+C:\Users\Web App Develop .Net\Desktop\StockManagmentApp\StockManagmentApp\bin\Debug\StockManagmentApp.exe
+C:\Users\Web App Develop .Net\Desktop\StockManagmentApp\StockManagmentApp\bin\Debug\StockManagmentApp.pdb
+C:\Users\Web App Develop .Net\Desktop\StockManagmentApp\StockManagmentApp\obj\Debug\StockManagmentApp.csprojResolveAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\StockManagmentApp\StockManagmentApp\obj\Debug\StockManagmentApp.CategorySetupUi.resources
+C:\Users\Web App Develop .Net\Desktop\StockManagmentApp\StockManagmentApp\obj\Debug\StockManagmentApp.CompanySetupUi.resources
+C:\Users\Web App Develop .Net\Desktop\StockManagmentApp\StockManagmentApp\obj\Debug\StockManagmentApp.ItemSetupUi.resources
+C:\Users\Web App Develop .Net\Desktop\StockManagmentApp\StockManagmentApp\obj\Debug\StockManagmentApp.StockInUi.resources
+C:\Users\Web App Develop .Net\Desktop\StockManagmentApp\StockManagmentApp\obj\Debug\StockManagmentApp.StockManagementAppFrontPageUi.resources
+C:\Users\Web App Develop .Net\Desktop\StockManagmentApp\StockManagmentApp\obj\Debug\StockManagmentApp.Properties.Resources.resources
+C:\Users\Web App Develop .Net\Desktop\StockManagmentApp\StockManagmentApp\obj\Debug\StockManagmentApp.StockOut.resources
+C:\Users\Web App Develop .Net\Desktop\StockManagmentApp\StockManagmentApp\obj\Debug\StockManagmentApp.csproj.GenerateResource.Cache
+C:\Users\NIZAM UDDIN NIROB\Desktop\StockManagmentApp\StockManagmentApp\obj\Debug\StockManagmentApp.StockOutUi.resources
+C:\Users\NIZAM UDDIN NIROB\Desktop\StockManagmentApp\StockManagmentApp\obj\Debug\StockManagmentApp.ViewSalesBetweenTwoDatesUi.resources
+C:\Users\NIZAM UDDIN NIROB\Desktop\StockManagmentApp\StockManagmentApp\obj\Debug\StockManagmentApp.LoginUi.resources
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project\final project_stockmanagement\StockManagementApp\StockManagmentApp\bin\Debug\StockManagmentApp.exe.config
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project\final project_stockmanagement\StockManagementApp\StockManagmentApp\obj\Debug\StockManagmentApp.exe
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project\final project_stockmanagement\StockManagementApp\StockManagmentApp\obj\Debug\StockManagmentApp.pdb
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project\final project_stockmanagement\StockManagementApp\StockManagmentApp\bin\Debug\StockManagmentApp.exe
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project\final project_stockmanagement\StockManagementApp\StockManagmentApp\bin\Debug\StockManagmentApp.pdb
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project\final project_stockmanagement\StockManagementApp\StockManagmentApp\obj\Debug\StockManagmentApp.csprojResolveAssemblyReference.cache
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project\final project_stockmanagement\StockManagementApp\StockManagmentApp\obj\Debug\StockManagmentApp.CategorySetupUi.resources
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project\final project_stockmanagement\StockManagementApp\StockManagmentApp\obj\Debug\StockManagmentApp.CompanySetupUi.resources
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project\final project_stockmanagement\StockManagementApp\StockManagmentApp\obj\Debug\StockManagmentApp.ItemSetupUi.resources
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project\final project_stockmanagement\StockManagementApp\StockManagmentApp\obj\Debug\StockManagmentApp.LoginUi.resources
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project\final project_stockmanagement\StockManagementApp\StockManagmentApp\obj\Debug\StockManagmentApp.StockInUi.resources
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project\final project_stockmanagement\StockManagementApp\StockManagmentApp\obj\Debug\StockManagmentApp.StockManagementAppFrontPageUi.resources
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project\final project_stockmanagement\StockManagementApp\StockManagmentApp\obj\Debug\StockManagmentApp.Properties.Resources.resources
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project\final project_stockmanagement\StockManagementApp\StockManagmentApp\obj\Debug\StockManagmentApp.StockOutUi.resources
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project\final project_stockmanagement\StockManagementApp\StockManagmentApp\obj\Debug\StockManagmentApp.ViewSalesBetweenTwoDatesUi.resources
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project\final project_stockmanagement\StockManagementApp\StockManagmentApp\obj\Debug\StockManagmentApp.csproj.GenerateResource.Cache
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project\final project_stockmanagement\StockManagementApp\StockManagmentApp\obj\Debug\StockManagmentApp.SearchandViewItemUi.resources
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project\final project_stockmanagement\StockManagementApp\StockManagmentApp\bin\Debug\itextsharp.dll
+C:\Users\NIZAM UDDIN NIROB\Desktop\final project_stockmanagement\StockManagementApp\StockManagmentApp\bin\Debug\StockManagmentApp.exe.config
+C:\Users\NIZAM UDDIN NIROB\Desktop\final project_stockmanagement\StockManagementApp\StockManagmentApp\obj\Debug\StockManagmentApp.exe
+C:\Users\NIZAM UDDIN NIROB\Desktop\final project_stockmanagement\StockManagementApp\StockManagmentApp\obj\Debug\StockManagmentApp.pdb
+C:\Users\NIZAM UDDIN NIROB\Desktop\final project_stockmanagement\StockManagementApp\StockManagmentApp\bin\Debug\StockManagmentApp.exe
+C:\Users\NIZAM UDDIN NIROB\Desktop\final project_stockmanagement\StockManagementApp\StockManagmentApp\bin\Debug\StockManagmentApp.pdb
+C:\Users\NIZAM UDDIN NIROB\Desktop\final project_stockmanagement\StockManagementApp\StockManagmentApp\bin\Debug\itextsharp.dll
+C:\Users\NIZAM UDDIN NIROB\Desktop\final project_stockmanagement\StockManagementApp\StockManagmentApp\obj\Debug\StockManagmentApp.csprojResolveAssemblyReference.cache
+C:\Users\NIZAM UDDIN NIROB\Desktop\final project_stockmanagement\StockManagementApp\StockManagmentApp\obj\Debug\StockManagmentApp.CategorySetupUi.resources
+C:\Users\NIZAM UDDIN NIROB\Desktop\final project_stockmanagement\StockManagementApp\StockManagmentApp\obj\Debug\StockManagmentApp.CompanySetupUi.resources
+C:\Users\NIZAM UDDIN NIROB\Desktop\final project_stockmanagement\StockManagementApp\StockManagmentApp\obj\Debug\StockManagmentApp.ItemSetupUi.resources
+C:\Users\NIZAM UDDIN NIROB\Desktop\final project_stockmanagement\StockManagementApp\StockManagmentApp\obj\Debug\StockManagmentApp.LoginUi.resources
+C:\Users\NIZAM UDDIN NIROB\Desktop\final project_stockmanagement\StockManagementApp\StockManagmentApp\obj\Debug\StockManagmentApp.SearchandViewItemUi.resources
+C:\Users\NIZAM UDDIN NIROB\Desktop\final project_stockmanagement\StockManagementApp\StockManagmentApp\obj\Debug\StockManagmentApp.StockInUi.resources
+C:\Users\NIZAM UDDIN NIROB\Desktop\final project_stockmanagement\StockManagementApp\StockManagmentApp\obj\Debug\StockManagmentApp.StockManagementAppFrontPageUi.resources
+C:\Users\NIZAM UDDIN NIROB\Desktop\final project_stockmanagement\StockManagementApp\StockManagmentApp\obj\Debug\StockManagmentApp.Properties.Resources.resources
+C:\Users\NIZAM UDDIN NIROB\Desktop\final project_stockmanagement\StockManagementApp\StockManagmentApp\obj\Debug\StockManagmentApp.StockOutUi.resources
+C:\Users\NIZAM UDDIN NIROB\Desktop\final project_stockmanagement\StockManagementApp\StockManagmentApp\obj\Debug\StockManagmentApp.ViewSalesBetweenTwoDatesUi.resources
+C:\Users\NIZAM UDDIN NIROB\Desktop\final project_stockmanagement\StockManagementApp\StockManagmentApp\obj\Debug\StockManagmentApp.csproj.GenerateResource.Cache
+C:\Users\NIZAM UDDIN NIROB\Desktop\StockManagementApp\StockManagmentApp\bin\Debug\StockManagmentApp.exe.config
+C:\Users\NIZAM UDDIN NIROB\Desktop\StockManagementApp\StockManagmentApp\obj\Debug\StockManagmentApp.exe
+C:\Users\NIZAM UDDIN NIROB\Desktop\StockManagementApp\StockManagmentApp\obj\Debug\StockManagmentApp.pdb
+C:\Users\NIZAM UDDIN NIROB\Desktop\StockManagementApp\StockManagmentApp\bin\Debug\StockManagmentApp.exe
+C:\Users\NIZAM UDDIN NIROB\Desktop\StockManagementApp\StockManagmentApp\bin\Debug\StockManagmentApp.pdb
+C:\Users\NIZAM UDDIN NIROB\Desktop\StockManagementApp\StockManagmentApp\obj\Debug\StockManagmentApp.csprojResolveAssemblyReference.cache
+C:\Users\NIZAM UDDIN NIROB\Desktop\StockManagementApp\StockManagmentApp\obj\Debug\StockManagmentApp.CategorySetupUi.resources
+C:\Users\NIZAM UDDIN NIROB\Desktop\StockManagementApp\StockManagmentApp\obj\Debug\StockManagmentApp.CompanySetupUi.resources
+C:\Users\NIZAM UDDIN NIROB\Desktop\StockManagementApp\StockManagmentApp\obj\Debug\StockManagmentApp.ItemSetupUi.resources
+C:\Users\NIZAM UDDIN NIROB\Desktop\StockManagementApp\StockManagmentApp\obj\Debug\StockManagmentApp.LoginUi.resources
+C:\Users\NIZAM UDDIN NIROB\Desktop\StockManagementApp\StockManagmentApp\obj\Debug\StockManagmentApp.SearchandViewItemUi.resources
+C:\Users\NIZAM UDDIN NIROB\Desktop\StockManagementApp\StockManagmentApp\obj\Debug\StockManagmentApp.StockInUi.resources
+C:\Users\NIZAM UDDIN NIROB\Desktop\StockManagementApp\StockManagmentApp\obj\Debug\StockManagmentApp.StockManagementAppFrontPageUi.resources
+C:\Users\NIZAM UDDIN NIROB\Desktop\StockManagementApp\StockManagmentApp\obj\Debug\StockManagmentApp.Properties.Resources.resources
+C:\Users\NIZAM UDDIN NIROB\Desktop\StockManagementApp\StockManagmentApp\obj\Debug\StockManagmentApp.StockOutUi.resources
+C:\Users\NIZAM UDDIN NIROB\Desktop\StockManagementApp\StockManagmentApp\obj\Debug\StockManagmentApp.ViewSalesBetweenTwoDatesUi.resources
+C:\Users\NIZAM UDDIN NIROB\Desktop\StockManagementApp\StockManagmentApp\obj\Debug\StockManagmentApp.csproj.GenerateResource.Cache
+C:\Users\NIZAM UDDIN NIROB\Desktop\Stock Management App Updated\StockManagmentApp\bin\Debug\StockManagmentApp.exe.config
+C:\Users\NIZAM UDDIN NIROB\Desktop\Stock Management App Updated\StockManagmentApp\obj\Debug\StockManagmentApp.exe
+C:\Users\NIZAM UDDIN NIROB\Desktop\Stock Management App Updated\StockManagmentApp\obj\Debug\StockManagmentApp.pdb
+C:\Users\NIZAM UDDIN NIROB\Desktop\Stock Management App Updated\StockManagmentApp\bin\Debug\StockManagmentApp.exe
+C:\Users\NIZAM UDDIN NIROB\Desktop\Stock Management App Updated\StockManagmentApp\bin\Debug\StockManagmentApp.pdb
+C:\Users\NIZAM UDDIN NIROB\Desktop\Stock Management App Updated\StockManagmentApp\obj\Debug\StockManagmentApp.csprojResolveAssemblyReference.cache
+C:\Users\NIZAM UDDIN NIROB\Desktop\Stock Management App Updated\StockManagmentApp\obj\Debug\StockManagmentApp.CategorySetupUi.resources
+C:\Users\NIZAM UDDIN NIROB\Desktop\Stock Management App Updated\StockManagmentApp\obj\Debug\StockManagmentApp.CompanySetupUi.resources
+C:\Users\NIZAM UDDIN NIROB\Desktop\Stock Management App Updated\StockManagmentApp\obj\Debug\StockManagmentApp.ItemSetupUi.resources
+C:\Users\NIZAM UDDIN NIROB\Desktop\Stock Management App Updated\StockManagmentApp\obj\Debug\StockManagmentApp.LoginUi.resources
+C:\Users\NIZAM UDDIN NIROB\Desktop\Stock Management App Updated\StockManagmentApp\obj\Debug\StockManagmentApp.SearchandViewItemUi.resources
+C:\Users\NIZAM UDDIN NIROB\Desktop\Stock Management App Updated\StockManagmentApp\obj\Debug\StockManagmentApp.StockInUi.resources
+C:\Users\NIZAM UDDIN NIROB\Desktop\Stock Management App Updated\StockManagmentApp\obj\Debug\StockManagmentApp.StockManagementAppFrontPageUi.resources
+C:\Users\NIZAM UDDIN NIROB\Desktop\Stock Management App Updated\StockManagmentApp\obj\Debug\StockManagmentApp.Properties.Resources.resources
+C:\Users\NIZAM UDDIN NIROB\Desktop\Stock Management App Updated\StockManagmentApp\obj\Debug\StockManagmentApp.StockOutUi.resources
+C:\Users\NIZAM UDDIN NIROB\Desktop\Stock Management App Updated\StockManagmentApp\obj\Debug\StockManagmentApp.ViewSalesBetweenTwoDatesUi.resources
+C:\Users\NIZAM UDDIN NIROB\Desktop\Stock Management App Updated\StockManagmentApp\obj\Debug\StockManagmentApp.csproj.GenerateResource.Cache
